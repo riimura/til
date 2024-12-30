@@ -2,7 +2,6 @@ import { ColoredMessage } from "./conmponents/ColoredMessage";
 
 export const App = () => {
     const onClickButton = () => { alert(); }
-    const contentPinkStyle = { color: "pink", fontSize: "20px" }
 
     return (
         <>
