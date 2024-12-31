@@ -1,3 +1,4 @@
+import React from "react";
 export const ColoredMessage = (props) => {
     // console.log(props);
     const { color, children } = props;
